@@ -1,0 +1,12 @@
+
+my sql database
+id7231002_mydatabase
+
+my sql User
+id7231002_benist617
+ 
+my sql host
+databases.000webhost.com
+localhost
+
+tha address are in the *request activities

@@ -1,0 +1,28 @@
+<resources>
+
+    <string-array name="Fields">
+        <item>None</item>
+        <item>Alianz_Arena</item>
+        <item>Toto_Turner</item>
+        <item>Santiago_Bernabeu</item>
+        <item>Camp_Nou</item>
+
+    </string-array>
+    <string name="app_name">SoccerGames</string>
+    <string name="activity_1">activity 1</string>
+    <string name="create_user">Create User</string>
+    <string name="fields">Fields</string>
+    <string name="games">Games</string>
+
+    <string name="time">Time</string>
+    <string name="rule">Rule:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_santiagofieldactivty">santiagofieldactivty</string>
+    <string name="create_game">Create Game</string>
+    <string name="done">Done</string>
+    <string name="generate_result">GENERATE RESULT:</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+[
+{"type":"header","version":"4.7.7","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"id7231002_mydatabase"},
+{"type":"table","name":"games","database":"id7231002_mydatabase","data":
+[
+{"teamA":"real madrid","teamB":"qw","goalsA":"4","goalsB":"3","Winner":"real madrid"},
+{"teamA":"qw","teamB":"barca","goalsA":"6","goalsB":"5","Winner":"qw"},
+{"teamA":"real madrid","teamB":"barca","goalsA":"2","goalsB":"4","Winner":"barca"},
+{"teamA":"baba","teamB":"real madrid","goalsA":"4","goalsB":"4","Winner":"TIE"},
+{"teamA":"barca","teamB":"real madrid","goalsA":"6","goalsB":"0","Winner":"barca"},
+{"teamA":"dinamo","teamB":"baba","goalsA":"0","goalsB":"4","Winner":"baba"}
+]
+}
+,{"type":"table","name":"user","database":"id7231002_mydatabase","data":
+[
+{"username":"ggg","password":"0","age":"23","team":"","rule":"rr","hours":"4","field":""},
+{"username":"ben","password":"0","age":"23","team":"","rule":"rr","hours":"4","field":""},
+{"username":"shlmo","password":"0","age":"23","team":"","rule":"mid","hours":"3","field":""},
+{"username":"kaka2500","password":"abcde123","age":"50","team":"","rule":"striker","hours":"10","field":""},
+{"username":"ovadia","password":"13432","age":"44","team":"","rule":"gk","hours":"1","field":""},
+{"username":"moshe","password":"12341234","age":"66","team":"","rule":"cd","hours":"3","field":""},
+{"username":"moshe1","password":"12521","age":"55","team":"","rule":"st","hours":"5","field":""},
+{"username":"stas","password":"1122","age":"25","team":"","rule":"left wing","hours":"4","field":""},
+{"username":"rom","password":"12345","age":"22","team":"","rule":"st","hours":"10","field":""},
+{"username":"stasash","password":"12345","age":"30","team":"","rule":"at","hours":"2","field":""},
+{"username":"shimhon","password":"toti10","age":"35","team":"","rule":"mid","hours":"3","field":""},
+{"username":"stanislav","password":"12345","age":"18","team":"","rule":"st","hours":"4","field":""},
+{"username":"ben_ist","password":"12345","age":"25","team":"barca","rule":"mid","hours":"4","field":"Toto_Turner"},
+{"username":"qwe","password":"123","age":"11","team":"qw","rule":"qw","hours":"2","field":"Alianz_Arena"},
+{"username":"qwer","password":"12345","age":"55","team":"baba","rule":"sgsd","hours":"5","field":"Santiago_Bernabe"},
+{"username":"chris","password":"12344","age":"20","team":"real","rule":"mid","hours":"4","field":"Alianz_Arena"},
+{"username":"lior","password":"1234321","age":"22","team":"real","rule":"gk","hours":"1","field":"Alianz_Arena"},
+{"username":"tamar","password":"tamar","age":"16","team":"barca","rule":"cb","hours":"3","field":"None"},
+{"username":"tomi","password":"123321","age":"13","team":"barca","rule":"cb","hours":"3","field":"Alianz_Arena"},
+{"username":"isco","password":"isco","age":"27","team":"real madrid","rule":"md","hours":"2","field":"Santiago_Bernabe"},
+{"username":"leo","password":"messi","age":"31","team":"barca","rule":"all","hours":"5","field":"Camp_Nou"},
+{"username":"stasticov","password":"12345","age":"31","team":"dinamo","rule":"gk","hours":"3","field":"Toto_Turner"}
+]
+}
+]
